@@ -7,7 +7,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/palette/palette.png" alt="jaigansa palette" width="400" />
+</p>
 
 
 - 👋 Hi, I’m @jaigansa
