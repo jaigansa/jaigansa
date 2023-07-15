@@ -15,14 +15,14 @@
 	<a href="https://github.com/jaigansa/jaigansa/stargazers">
 		<img alt="Stargazers" src="https://img.shields.io/github/stars/jaigansa?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
   </a>
-	<a href="https://github.com/jaigansa/bashscript/releases">
+	<a href="https://github.com/jaigansa/jaigansa/releases/latest">
 		<img alt="Releases" src="https://img.shields.io/github/release/jaigansa/jaigansa.svg?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/>
   </a>
 	<a href="https://github.com/jaigansa/jaigansa/issues">
 		<img alt="Issues" src="https://img.shields.io/github/issues/jaigansa/jaigansa?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
   </a>
-	<a href="https://discord.com/servers/907385605422448742">
-		<img alt="Discord" src="https://img.shields.io/discord/907385605422448742?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41">
+	<a href="https://discord.com/servers/720147099383234601">
+		<img alt="Discord" src="https://img.shields.io/discord/720147099383234601?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41">
   </a>
 </p>
 
