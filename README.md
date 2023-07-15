@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/logos/jaigansa.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Our Coding Knowledge by <a href="https://jaigansa.github.io">JAIGANSA</a>
+	Improve My Coding Knowledge  <a href="https://jaigansa.github.io">JAIGANSA</a>
 	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -11,14 +11,19 @@
   <img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/palette/palette.png" alt="jaigansa palette" width="400" />
 </p>
 
+<p align="center">
+	<a href="https://github.com/jaigansa/jaigansa/stargazers">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/jaigansa?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+	<a href="https://github.com/jaigansa/jaigansa/releases/latest">
+		<img alt="Releases" src="https://img.shields.io/github/release/jaigansa/jaigansa.svg?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/>
+  </a>
+	<a href="https://github.com/jaigansa/jaigansa/issues">
+		<img alt="Issues" src="https://img.shields.io/github/issues/jaigansa/jaigansa?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+	<a href="https://discord.com/servers/907385605422448742">
+		<img alt="Discord" src="https://img.shields.io/discord/907385605422448742?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+</p>
 
-- 👋 Hi, I’m @jaigansa
-- 👀 I’m interested in graphic design
-- 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jaigansa.me
 
-<!---
-jaigansa/jaigansa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
