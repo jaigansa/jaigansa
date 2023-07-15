@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/logos/exports/jaigansa.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/logos/jaigansa.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Catppuccin for <a href="https://www.kde.org/">KDE</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
