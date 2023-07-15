@@ -15,7 +15,7 @@
 	<a href="https://github.com/jaigansa/jaigansa/stargazers">
 		<img alt="Stargazers" src="https://img.shields.io/github/stars/jaigansa?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
   </a>
-	<a href="https://github.com/jaigansa/jaigansa/releases/latest">
+	<a href="https://github.com/jaigansa/bashscript/releases">
 		<img alt="Releases" src="https://img.shields.io/github/release/jaigansa/jaigansa.svg?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/>
   </a>
 	<a href="https://github.com/jaigansa/jaigansa/issues">
