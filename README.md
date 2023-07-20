@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/logos/jaigansa.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Improve My Coding Knowledge	&	<a href="https://jaigansa.github.io">Content Creation</a>
+	Vannako! This is  <a href="https://jaigansa.github.io">JaiGanesh!</a> 
 	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
