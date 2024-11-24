@@ -21,8 +21,8 @@
 	<a href="https://github.com/jaigansa/jaigansa/issues">
 		<img alt="Issues" src="https://img.shields.io/github/issues/jaigansa/jaigansa?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
   </a>
-	<a href="https://discord.com/servers/720147099383234601">
-		<img alt="Discord" src="https://img.shields.io/discord/720147099383234601?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41">
+	<a href="https://discord.com/servers/1198109698046566410">
+		<img alt="Discord" src="https://img.shields.io/discord/1198109698046566410?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41">
   </a>
 </p>
 
