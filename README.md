@@ -5,8 +5,6 @@
 	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/palette/palette.png" alt="jaigansa palette" width="400" />
 </p>
