@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/logos/jaigansa.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Vanakam! This is  <a href="https://jaigansa.github.io">JaiGanesh!</a> 
+	Vanakam! This is <a href="https://jaigansa.github.io">JaiGanesh!</a>
 	<img src="https://raw.githubusercontent.com/jaigansa/jaigansa/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -24,14 +24,38 @@
   </a>
 </p>
 
-
 &nbsp;
 
-
 <p align="center">
-  Welcome to our github profile here is only our learning stuffs, In Futhure any Awesome project Share here Stay tune...
+  Welcome to my GitHub profile! This space captures my learning journey. In the future, I'll be sharing awesome projects here. Stay tuned!
 </p>
 
 <p align="center">
   Join our community!
+</p>
+
+---
+
+### 👨‍💻 About Me
+* 🔭 I’m currently working on building cool projects and improving my developer skills.
+* 🌱 I’m currently learning full-stack development and open-source contribution.
+* 💬 Ask me about web development, open-source, or tech in general!
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaigansa&show_icons=true&theme=catppuccin" alt="JaiGanesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaigansa&layout=compact&theme=catppuccin" alt="Top Languages" />
 </p>
