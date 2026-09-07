@@ -54,11 +54,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=jaigansa&show_icons=true&theme=catppuccin" alt="JaiGanesh's GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaigansa&layout=compact&theme=catppuccin" alt="Top Languages" />
-</p>
-</p>
